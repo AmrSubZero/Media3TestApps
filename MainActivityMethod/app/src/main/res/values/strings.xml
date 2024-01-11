@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Media3Test</string>
+
+    <string name="PLAYBACK_CHANNEL_ID">playback_channel</string>
+    <integer name="PLAYBACK_NOTIFICATION_ID">1</integer>
+    <integer name="PLAYBACK_NOTIFICATION_INTENT_CODE">56791623</integer>
+    <string name="PLAYBACK_CHANNEL_NAME">Playback</string>
+    <string name="PLAYBACK_CHANNEL_DESCRIPTION">The playback notification</string>
+
+    <string name="playback_play">Play</string>
+    <string name="playback_pause">Pause</string>
+    <string name="playback_stop">Stop</string>
+    <string name="playback_loading">Loading</string>
+    <string name="playback_output">...</string>
+
+    <string name="playback_state_ready">STATE_READY</string>
+    <string name="playback_state_ended">STATE_ENDED</string>
+    <string name="playback_state_idle">STATE_IDLE</string>
+    <string name="playback_state_buffering">STATE_BUFFERING</string>
+    <string name="playback_state_initializing">INITIALIZING</string>
+
+</resources>
