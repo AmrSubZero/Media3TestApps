@@ -236,7 +236,7 @@ public class MainActivity extends AppCompatActivity {
 
                         play_button.setText(getString(R.string.playback_play));
 
-                        play_button.setText(error.getMessage());
+                        playback_output.setText(error.getMessage());
                     }
 
                 });
